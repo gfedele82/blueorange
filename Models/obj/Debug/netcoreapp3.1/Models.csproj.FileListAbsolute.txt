@@ -1,0 +1,10 @@
+C:\Users\GFedele\source\repos\Test\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\GFedele\source\repos\Test\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\GFedele\source\repos\Test\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\GFedele\source\repos\Test\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\GFedele\source\repos\Test\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GFedele\source\repos\Test\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\GFedele\source\repos\Test\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\GFedele\source\repos\Test\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\GFedele\source\repos\Test\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\GFedele\source\repos\Test\Models\obj\Debug\netcoreapp3.1\Models.pdb

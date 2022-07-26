@@ -1,0 +1,15 @@
+C:\Users\GFedele\source\repos\Test\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\GFedele\source\repos\Test\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\GFedele\source\repos\Test\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\GFedele\source\repos\Test\Engine\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\GFedele\source\repos\Test\Engine\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\GFedele\source\repos\Test\Engine\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\GFedele\source\repos\Test\Engine\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.AssemblyReference.cache
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CopyComplete
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\GFedele\source\repos\Test\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
